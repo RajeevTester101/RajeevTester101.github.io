@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+.title-container{
+    height: 40vh;
+
+    background-color: rgb(230,230,230);
+}
+
+.title-hello{
+    font-size: 10rem;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.title-name{
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: 'Lobster', cursive;
+
+    position: relative;
+    top: -2.5rem;
+    left: 50px;
+
+    color: rgb(230, 230, 230);
+    background-color: #8B8000;
+}
+
+.title-tag{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+    position: relative;
+    top: -2rem;
+}
+
+.about-me-container{
+    width: 80vw;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-left: 10vw;
+
+    background-color: #FFD700;
+}
+
+.about-me-image{
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px cyan;
+}
+
+.about-me-text{
+  font-size: 1.2rem;
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+  padding-left: 5% !important;
+  padding-right: 5% !important
+
+  color: rgb(230, 230, 230);
+}
+
+.contact-me-container{
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.contact-me-icon{
+  height: 4rem;
+  width: 4rem;
+}
